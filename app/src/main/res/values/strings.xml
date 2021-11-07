@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Discover PH7460</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+    <string name="discover_the_7_460_islands_of_the_philippines">Discover the 7,460 Islands of the Philippines</string>
+    <string name="browse_from_the_categories_below">Browse from the Categories Below:</string>
+    <string name="provinces">Provinces</string>
+    <string name="cities">Cities</string>
+    <string name="cebu">Cebu</string>
+    <string name="baguio">Baguio</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home">Home</string>
+    <string name="discover">Discover</string>
+    <string name="favorites">Favorites</string>
+    <string name="save_to_favorites">Save to Favorites</string>
+    <string name="province">Province</string>
+    <string name="description">Description:</string>
+    <string name="view_map">View Map</string>
+    <string name="discover_the_places">Discover the Places:</string>
+    <string name="favorite_lists">Favorite Lists:</string>
+    <string name="standard">Standard</string>
+    <string name="satellite">Satellite</string>
+
+
+</resources>

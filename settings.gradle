@@ -1,0 +1,2 @@
+rootProject.name = "Discover PH7460"
+include ':app'
